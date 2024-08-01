@@ -25,4 +25,4 @@ def parse_log_file(file_path):
 
 
 # Example usage: Replace 'your_log_file.txt' with your actual log file path
-parse_log_file('C:\Windows\Logs\DISM\dism.log')
+parse_log_file('your_log_file.txt')
